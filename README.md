@@ -33,6 +33,7 @@
 It gives one control over project as it will improve the project planning,communication,and the use of resources
 Gantt charts can help by keeping track of progress and identifying any delays
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+      My software aims to solve the problem for people who lost their memory and cognitive declining due to dimensia and after car acccident
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
 -By giving stackholders the insight of what to expect,when understanding the problem it will be easy to identify what is required for the software to be build and avoid unnecessary confusion.
 -desiners will know what tools to use and also get to know what features or functionality needed for better user interface.
@@ -40,5 +41,7 @@ Gantt charts can help by keeping track of progress and identifying any delays
 finaly testers will be able to reach their target of improved the quality and readability of the software.
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
 ## 11. What are the main features or functionalities that make your software stand out?
+       personalized AI-driven memory recall,emotional-based memory training,voice approach,cognitive exercises and social-connectivity
 ## 12. What data is available regarding the market size and growth potential for your software?
 ## 13. How can understanding market trends inform your software’s positioning and development?
+       being well informed will save from wasting resource
